@@ -1,0 +1,6 @@
+owner=412547940654252053
+prefix=,
+game= Just Morttal = ) 
+stayinchannel=true
+songinstatus=false
+token=NTg3NjMxMjA1NzEzODM4MDg1.XP5YsQ.obzWCvU4PFZNceQnHlMcYmZkfsI
